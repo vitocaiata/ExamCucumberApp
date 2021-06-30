@@ -11,7 +11,6 @@ Feature: test on apk app
       Given make a search spotify
       Then click on the suggested item
 
-
     Scenario: click on app button
       Then click on app button
 
